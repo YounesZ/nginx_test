@@ -7,12 +7,25 @@ services:
       context: ./nginx
     container_name: nginxrp
     volumes:
-      - ./nginx/html:/var/www/html
+      - ./public_html:/public_html
       - ./nginx/conf.d:/etc/nginx/conf.d
       - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./dhparam:/etc/nginx/dhparam
+      - ./certbot/conf:/etc/nginx/ssl
+      - ./certbot/data:/usr/share/nginx/html/letsencrypt
     ports:
-      - "1880:80"
+      - 1880:80
+      - 443:443
     command: nginx -g  "daemon off;"
+
+
+  certbot:
+    image: certbot/certbot:latest
+    command: certonly --webroot --webroot-path=/usr/share/nginx/html/letsencrypt --email younes_zerouali@hotmail.com --agree-tos --no-eff-email -d carsnatch.au -d www.carsnatch.ai
+    volumes:
+      - ./certbot/conf:/etc/letsencrypt
+      - ./certbot/logs:/var/log/letsencrypt
+      - ./certbot/data:/usr/share/nginx/html/letsencrypt
 
 
   carsapp:
