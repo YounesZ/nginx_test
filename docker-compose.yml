@@ -13,3 +13,12 @@ services:
     ports:
       - "1880:80"
     command: nginx -g  "daemon off;"
+
+
+  carsapp:
+    build:
+      context: ./mlcars
+    container_name: carsapp_server
+    ports:
+      - "5001:5000"
+    #command: docker build -t mlcarsapp --build-arg SSH_KEY="$$(cat ~/.ssh/id_rsa_mlcdeploy)" mlcars/.

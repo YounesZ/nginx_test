@@ -1,0 +1,468 @@
+Make;Model;BodyType;BodySize;SportsLevel;Luxury;Exotic;Origin
+Acura;CSX;Sedan;Compact;0;True;False;japan
+Acura;EL;Sedan;Midsize;0;True;False;japan
+Acura;ILX;Sedan;Compact;0;True;False;japan
+Acura;MDX;SUV, Crossover;Midsize;0;True;False;japan
+Acura;RDX;SUV, Crossover;Compact;0;True;False;japan
+Acura;RLX;Sedan;Fullsize;0;True;False;japan
+Acura;RSX;Coupe (2 door);Compact;0;True;False;japan
+Acura;TL;Sedan;Midsize;0;True;False;japan
+Acura;TLX;Sedan;Fullsize;0;True;False;japan
+Acura;TSX;Sedan;Compact;0;True;False;japan
+Audi;A3;Sedan;Subcompact;0;True;False;germany
+Audi;A4;Sedan;Compact;0;True;False;germany
+Audi;A4 Allroad;Hatchback;Compact;0;True;False;germany
+Audi;A5;Coupe (2 door);Compact;0;True;False;germany
+Audi;A6;Sedan;Midsize;0;True;False;germany
+Audi;A7;Sedan;Midsize;0;True;False;germany
+Audi;A8;Sedan;Fullsize;0;True;False;germany
+Audi;Q3;SUV, Crossover;Compact;0;True;False;germany
+Audi;Q5;SUV, Crossover;Compact;0;True;False;germany
+Audi;Q7;SUV, Crossover;Midsize;0;True;False;germany
+Audi;Q8;SUV, Crossover;Midsize;0;True;False;germany
+Audi;R8;Sport;Compact;3;True;False;germany
+Audi;RS3;Sport Sedan;Subcompact;2;True;False;germany
+Audi;RS5;Coupe (2 door);Compact;2;True;False;germany
+Audi;RS7;Sport Sedan;Midsize;2;True;False;germany
+Audi;S3;Sport Sedan;Subcompact;1;True;False;germany
+Audi;S4;Sport Sedan;Compact;1;True;False;germany
+Audi;S5;Coupe (2 door);Compact;1;True;False;germany
+Audi;SQ5;SUV, Crossover;Compact;1;True;False;germany
+Audi;TT;Sport;Subcompact;1;True;False;germany
+Audi;TT RS;Sport;Subcompact;2;True;False;germany
+Bentley;Bentayga;SUV, Crossover;Fullsize;2;True;True;england
+Bentley;Continental GT;Coupe (2 door);Fullsize;2;True;True;england
+Bentley;Continental GTC;Coupe (2 door);Fullsize;3;True;True;england
+Bentley;Flying Spur;Sedan;Fullsize;2;True;True;england
+BMW;1-Series;Hatchback;Subcompact;0;True;False;germany
+BMW;2-Series;Sedan;Subcompact;0;True;False;germany
+BMW;3-Series;Sedan;Compact;0;True;False;germany
+BMW;4-Series;Sport Sedan;Compact;0;True;False;germany
+BMW;5-Series;Sedan;Midsize;0;True;False;germany
+BMW;6-Series;Sport Sedan;Midsize;0;True;False;germany
+BMW;7-Series;Sedan;Fullsize;0;True;False;germany
+BMW;8-Series;Sport Sedan;Fullsize;0;True;False;germany
+BMW;l-series;Sedan;Fullsize;0;True;False;germany
+BMW;M2;Coupe (2 door);Subcompact;2;True;False;germany
+BMW;M3;Sport Sedan;Compact;2;True;False;germany
+BMW;M4;Sport Sedan;Compact;2;True;False;germany
+BMW;M5;Sport Sedan;Midsize;2;True;False;germany
+BMW;X1;SUV, Crossover;Subcompact;0;True;False;germany
+BMW;X2;SUV, Crossover;Subcompact;0;True;False;germany
+BMW;X3;SUV, Crossover;Compact;0;True;False;germany
+BMW;X4;SUV, Crossover;Compact;0;True;False;germany
+BMW;X5;SUV, Crossover;Midsize;0;True;False;germany
+BMW;X6;SUV, Crossover;Midsize;0;True;False;germany
+BMW;X7;SUV, Crossover;Fullsize;0;True;False;germany
+BMW;Z4;Sport;Subcompact;1;True;False;germany
+Buick;Allure;Sedan;Midsize;0;False;False;U.S.
+Buick;Enclave;SUV, Crossover;Midsize;0;True;False;U.S.
+Buick;Encore;SUV, Crossover;Subcompact;0;False;False;U.S.
+Buick;Envision;SUV, Crossover;Compact;0;False;False;U.S.
+Buick;Lucerne;Sedan;Fullsize;0;True;False;U.S.
+Buick;Regal;Sedan;Midsize;0;False;False;U.S.
+Buick;Rendezvous;SUV, Crossover;Midsize;0;False;False;U.S.
+Buick;Verano;Sedan;Compact;0;True;False;U.S.
+Cadillac;ATS;Sedan;Compact;0;True;False;U.S.
+Cadillac;CTS;Sedan;Midsize;0;True;False;U.S.
+Cadillac;DTS;Sedan;Fullsize;0;True;False;U.S.
+Cadillac;Eldorado;Cabriolet;Fullsize;0;True;False;U.S.
+Cadillac;Escalade;SUV, Crossover;Fullsize;0;True;False;U.S.
+Cadillac;SRX;SUV, Crossover;Midsize;0;True;False;U.S.
+Cadillac;STS;Sedan;Midsize;0;True;False;U.S.
+Cadillac;XT4;SUV, Crossover;Compact;0;True;False;U.S.
+Cadillac;XT5;SUV, Crossover;Midsize;0;True;False;U.S.
+Cadillac;XT6;SUV, Crossover;Fullsize;0;True;False;U.S.
+Cadillac;XTS;Sedan;Fullsize;0;True;False;U.S.
+Chevrolet;Astro;Minivan, Van;Midsize;0;False;False;U.S.
+Chevrolet;Avalanche;Pickup Truck;Fullsize;0;False;False;U.S.
+Chevrolet;Aveo;Hatchback;Subcompact;0;False;False;U.S.
+Chevrolet;Blazer;SUV, Crossover;Midsize;0;False;False;U.S.
+Chevrolet;Bolt;Hatchback;Subcompact;0;False;False;U.S.
+Chevrolet;Camaro;Coupe (2 door);Midsize;1;True;False;U.S.
+Chevrolet;Cavalier;Sedan;Compact;0;False;False;U.S.
+Chevrolet;Cobalt;Sedan;Compact;0;False;False;U.S.
+Chevrolet;Colorado;Pickup Truck;Midsize;0;False;False;U.S.
+Chevrolet;Corvette;Sport;Compact;2;True;False;U.S.
+Chevrolet;Cruze;Sedan;Compact;0;False;False;U.S.
+Chevrolet;Equinox;SUV, Crossover;Compact;0;False;False;U.S.
+Chevrolet;Express;Minivan, Van;Fullsize;0;False;False;U.S.
+Chevrolet;HHR;Hatchback;Compact;0;False;False;U.S.
+Chevrolet;Impala;Sedan;Fullsize;0;False;False;U.S.
+Chevrolet;Malibu;Sedan;Midsize;0;False;False;U.S.
+Chevrolet;Optra;Sedan;Compact;0;False;False;U.S.
+Chevrolet;Orlando;Minivan;Compact;0;False;False;U.S.
+Chevrolet;Silverado 1500;Pickup Truck;Fullsize;0;False;False;U.S.
+Chevrolet;Silverado 2500;Pickup Truck;Fullsize;0;False;False;U.S.
+Chevrolet;Silverado 3500;Pickup Truck;Fullsize;0;False;False;U.S.
+Chevrolet;Sonic;Sedan;Compact;0;False;False;U.S.
+Chevrolet;Spark;Hatchback;Subcompact;0;False;False;U.S.
+Chevrolet;SSR;Cabriolet;Compact;1;False;False;U.S.
+Chevrolet;Suburban;SUV, Crossover;Fullsize;0;True;False;U.S.
+Chevrolet;Tahoe;SUV, Crossover;Fullsize;0;True;False;U.S.
+Chevrolet;Trailblazer;SUV, Crossover;Subcompact;0;False;False;U.S.
+Chevrolet;Traverse;SUV, Crossover;Midsize;0;False;False;U.S.
+Chevrolet;Trax;SUV, Crossover;Subcompact;0;False;False;U.S.
+Chevrolet;Uplander;Minivan, Van;Midsize;0;False;False;U.S.
+Chevrolet;Volt;Sedan;Compact;0;False;False;U.S.
+Chrysler;200-Series;Sedan;Midsize;0;False;False;U.S.
+Chrysler;300-Series;Sedan;Fullsize;0;False;False;U.S.
+Chrysler;Aspen;SUV, Crossover;Fullsize;0;False;False;U.S.
+Chrysler;Crossfire;Sport;Compact;0;False;False;U.S.
+Chrysler;Intrepid;Sedan;Fullsize;0;False;False;U.S.
+Chrysler;Pacifica;Minivan;Midsize;0;False;False;U.S.
+Chrysler;PT Cruiser;Hatchback;Compact;0;False;False;U.S.
+Chrysler;Sebring;Sedan;Midsize;0;False;False;U.S.
+Chrysler;Town & Country;Minivan, Van;Midsize;0;False;False;U.S.
+Dodge;Avenger;Sedan;Midsize;0;False;False;U.S.
+Dodge;Caliber;Hatchback;Compact;0;False;False;U.S.
+Dodge;Caravan;Minivan, Van;Midsize;0;False;False;U.S.
+Dodge;Challenger;Sport;Midsize;1;False;False;U.S.
+Dodge;Charger;Sport;Fullsize;1;True;False;U.S.
+Dodge;Dakota;Pickup Truck;Midsize;0;False;False;U.S.
+Dodge;Dart;Sedan;Compact;0;False;False;U.S.
+Dodge;Durango;SUV, Crossover;Midsize;0;False;False;U.S.
+Dodge;Grand Caravan;Minivan, Van;Midsize;0;False;False;U.S.
+Dodge;Journey;SUV, Crossover;Midsize;0;False;False;U.S.
+Dodge;Nitro;SUV, Crossover;Compact;0;False;False;U.S.
+Dodge;Power Ram 1500;Pickup Truck;Fullsize;0;False;False;U.S.
+Dodge;Power Ram 2500;Pickup Truck;Fullsize;0;False;False;U.S.
+Dodge;Sprinter;Minivan, Van;Fullsize;0;False;False;U.S.
+Dodge;Ram Van;Minivan, Van;Fullsize;0;False;False;U.S.
+Eagle;Vision;Sedan;Fullsize;0;False;False;U.S.
+Ferrari;California;Sport;Midsize;3;True;True;italy
+Fiat;500;Hatchback;Subcompact;0;False;False;italy
+Fiat;500c;Cabriolet;Subcompact;0;False;False;italy
+Fiat;500l;Minivan, Van;Compact;0;False;False;italy
+Ford;Bronco;SUV, Crossover;Midsize;0;False;False;U.S.
+Ford;C-Max;Minivan;Compact;0;False;False;U.S.
+Ford;Crown Victoria;Sedan;Fullsize;0;False;False;U.S.
+Ford;E150;Minivan, Van;Fullsize;0;False;False;U.S.
+Ford;E-250;Minivan, Van;Fullsize;0;False;False;U.S.
+Ford;E-350;Minivan, Van;Fullsize;0;False;False;U.S.
+Ford;E-450;Minivan, Van;Fullsize;0;False;False;U.S.
+Ford;E-Series Van;Minivan, Van;Fullsize;0;False;False;U.S.
+Ford;EcoSport;SUV, Crossover;Subcompact;0;False;False;U.S.
+Ford;Edge;SUV, Crossover;Midsize;0;False;False;U.S.
+Ford;Escape;SUV, Crossover;Compact;0;False;False;U.S.
+Ford;Expedition;SUV, Crossover;Fullsize;0;False;False;U.S.
+Ford;Explorer;SUV, Crossover;Fullsize;0;False;False;U.S.
+Ford;Explorer Sport;SUV, Crossover;Fullsize;0;False;False;U.S.
+Ford;Explorer Sport Trac;SUV, Crossover;Fullsize;0;False;False;U.S.
+Ford;-150 F;Pickup Truck;Fullsize;0;False;False;U.S.
+Ford;-250 F;Pickup Truck;Fullsize;0;False;False;U.S.
+Ford;-350 F;Pickup Truck;Fullsize;0;False;False;U.S.
+Ford;F-150;Pickup Truck;Fullsize;0;False;False;U.S.
+Ford;F-150 Raptor;Pickup Truck;Fullsize;0;False;False;U.S.
+Ford;F-250;Pickup Truck;Fullsize;0;False;False;U.S.
+Ford;F-350;Pickup Truck;Fullsize;0;False;False;U.S.
+Ford;Fiesta;Hatchback;Subcompact;0;False;False;U.S.
+Ford;Five Hundred;Sedan;Fullsize;0;False;False;U.S.
+Ford;Flex;SUV, Crossover;Fullsize;0;False;False;U.S.
+Ford;Focus;Sedan;Compact;0;False;False;U.S.
+Ford;Fusion;Sedan;Midsize;0;False;False;U.S.
+Ford;GT;Sport;Compact;3;True;False;U.S.
+Ford;Maverick;Pickup Truck;Compact;0;False;False;U.S.
+Ford;Mondeo;Sedan;Midsize;0;False;False;U.S.
+Ford;Mustang;Coupe (2 door);Midsize;1;True;False;U.S.
+Ford;Ranger;Pickup Truck;Midsize;0;False;False;U.S.
+Ford;Taurus;Sedan;Fullsize;0;False;False;U.S.
+Ford;Thunderbird;Coupe (2 door);Fullsize;0;True;False;U.S.
+Ford;Transit;Minivan, Van;Fullsize;0;False;False;U.S.
+Ford;Transit Connect;Minivan, Van;Fullsize;0;False;False;U.S.
+Genesis;G70;Sedan;Midsize;0;True;False;korea
+Genesis;G80;Sedan;Midsize;0;True;False;korea
+Genesis;G90;Sedan;Fullsize;0;True;False;korea
+GMC;Acadia;SUV, Crossover;Midsize;0;False;False;U.S.
+GMC;Canyon;Pickup Truck;Midsize;0;False;False;U.S.
+GMC;Savana;Minivan, Van;Fullsize;0;False;False;U.S.
+GMC;Sierra;Pickup Truck;Fullsize;0;False;False;U.S.
+GMC;Sierra 1500;Pickup Truck;Fullsize;0;False;False;U.S.
+GMC;Sierra 2500;Pickup Truck;Fullsize;0;False;False;U.S.
+GMC;Sierra 3500;Pickup Truck;Fullsize;0;False;False;U.S.
+GMC;Sonoma;Pickup Truck;Compact;0;False;False;U.S.
+GMC;Suburban;SUV, Crossover;Fullsize;0;True;False;U.S.
+GMC;Terrain;SUV, Crossover;Compact;0;False;False;U.S.
+GMC;Vandura;Minivan, Van;Fullsize;0;False;False;U.S.
+GMC;Yukon;SUV, Crossover;Fullsize;0;True;False;U.S.
+Honda;Accord;Sedan;Midsize;0;False;False;japan
+Honda;Accord Crosstour;SUV, Crossover;Midsize;0;False;False;japan
+Honda;CR-V;SUV, Crossover;Compact;0;False;False;japan
+Honda;Civic;Sedan;Compact;0;False;False;japan
+Honda;Element;SUV, Crossover;Compact;0;False;False;japan
+Honda;Fit;Hatchback;Subcompact;0;False;False;japan
+Honda;HR-V;SUV, Crossover;Subcompact;0;False;False;japan
+Honda;Odyssey;Minivan;Midsize;0;False;False;japan
+Honda;Passport;SUV, Crossover;Midsize;0;False;False;japan
+Honda;Pilot;SUV, Crossover;Fullsize;0;False;False;japan
+Honda;Ridgeline;Pickup Truck;Midsize;0;False;False;japan
+Hyundai;Accent;Hatchback;Subcompact;0;False;False;korea
+Hyundai;Elantra;Berline;Compact;0;False;False;korea
+Hyundai;Entourage;Minivan, Van;Midsize;0;False;False;korea
+Hyundai;Genesis;Sedan;Fullsize;0;True;False;korea
+Hyundai;Genesis Coupe;Coupé (2 portes);Fullsize;0;True;False;korea
+Hyundai;IONIQ;Hatchback;Compact;0;False;False;korea
+Hyundai;Kona;SUV, Crossover;Compact;0;False;False;korea
+Hyundai;Palisade;SUV, Crossover;Midsize;0;False;False;korea
+Hyundai;Santa Fe;SUV, Crossover;Midsize;0;False;False;korea
+Hyundai;Sonata;Sedan;Midsize;0;False;False;korea
+Hyundai;Sonata Hybrid;Sedan;Midsize;0;False;False;korea
+Hyundai;Tucson;SUV, Crossover;Compact;0;False;False;korea
+Hyundai;Veloster;Hatchback;Compact;0;False;False;korea
+Hyundai;VENUE;SUV, Crossover;Subcompact;0;False;False;korea
+Hyundai;Veracruz;SUV, Crossover;Midsize;0;False;False;korea
+Infiniti;EX35;SUV, Crossover;Compact;0;True;False;japan
+Infiniti;EX37;SUV, Crossover;Midsize;0;True;False;japan
+Infiniti;FX;SUV, Crossover;Midsize;0;True;False;japan
+Infiniti;G35;Sedan;Compact;0;True;False;japan
+Infiniti;G35x;Sedan;Compact;1;True;False;japan
+Infiniti;G37;Sedan;Midsize;0;True;False;japan
+Infiniti;G37x;Sedan;Midsize;1;True;False;japan
+Infiniti;JX;SUV, Crossover;Midsize;0;True;False;japan
+Infiniti;M35;Sedan;Midsize;0;True;False;japan
+Infiniti;Q50;Sedan;Compact;0;True;False;japan
+Infiniti;Q60;Coupe (2 door);Compact;0;True;False;japan
+Infiniti;QX30;SUV, Crossover;Subcompact;0;True;False;japan
+Infiniti;QX50;SUV, Crossover;Compact;0;True;False;japan
+Infiniti;QX60;SUV, Crossover;Midsize;0;True;False;japan
+Infiniti;QX70;SUV, Crossover;Midsize;0;True;False;japan
+Infiniti;QX80;SUV, Crossover;Fullsize;0;True;False;japan
+Jaguar;F-Pace;SUV, Crossover;Midsize;0;True;False;england
+Jaguar;F-Type;Coupe (2 door);Compact;1;True;False;england
+Jaguar;XE;Sedan;Compact;0;True;False;england
+Jaguar;XJ;Sedan;Fullsize;0;True;False;england
+Jaguar;XJS;Coupe (2 door);Midsize;1;True;False;england
+Jeep;Cherokee;SUV, Crossover;Midsize;0;False;False;U.S.
+Jeep;Compass;SUV, Crossover;Compact;0;False;False;U.S.
+Jeep;Grand Cherokee;SUV, Crossover;Midsize;0;False;False;U.S.
+Jeep;Liberty;SUV, Crossover;Compact;0;False;False;U.S.
+Jeep;Patriot;SUV, Crossover;Compact;0;False;False;U.S.
+Jeep;Renegade;SUV, Crossover;Subcompact;0;False;False;U.S.
+Jeep;TJ;SUV, Crossover;Compact;0;False;False;U.S.
+Jeep;Wrangler;SUV, Crossover;Compact;0;False;False;U.S.
+Kia;Amanti;Sedan;Fullsize;0;True;False;korea
+Kia;Borrego;SUV, Crossover;Midsize;0;True;False;korea
+Kia;Carnival;Minivan;Midsize;0;False;False;korea
+Kia;Forte;Sedan;Compact;0;False;False;korea
+Kia;Forte5;Hatchback;Compact;0;False;False;korea
+Kia;Niro;SUV, Crossover;Compact;0;False;False;korea
+Kia;Optima;Sedan;Midsize;0;False;False;korea
+Kia;Rio;Hatchback;Subcompact;0;False;False;korea
+Kia;Rondo;Minivan, Van;Compact;0;False;False;korea
+Kia;Sedona;Minivan, Van;Midsize;0;False;False;korea
+Kia;Sorento;SUV, Crossover;Midsize;0;False;False;korea
+Kia;Soul;SUV, Crossover;Subcompact;0;False;False;korea
+Kia;Spectra;Sedan;Compact;0;False;False;korea
+Kia;Sportage;SUV, Crossover;Compact;0;False;False;korea
+Kia;Stinger;Sedan;Midsize;0;True;False;korea
+Lamborghini;Aventador;Coupe (2 door);Compact;3;True;True;italy
+Lamborghini;Huracán;Coupe (2 door);Compact;3;True;True;italy
+Land Rover;Defender;SUV, Crossover;Compact;0;True;False;england
+Land Rover;Discovery;SUV, Crossover;Midsize;0;True;False;england
+Land Rover;LR2;SUV, Crossover;Subcompact;0;True;False;england
+Land Rover;LR3;SUV, Crossover;Compact;0;True;False;england
+Land Rover;LR4;SUV, Crossover;Midsize;0;True;False;england
+Land Rover;Range Rover;SUV, Crossover;Fullsize;0;True;False;england
+Land Rover;Range Rover Evoque;SUV, Crossover;Compact;0;True;False;england
+Land Rover;Range Rover Sport;SUV, Crossover;Midsize;1;True;False;england
+Land Rover;Range Rover Velar;SUV, Crossover;Compact;0;True;False;england
+Lexus;CT 200h;Hatchback;Compact;0;True;False;japan
+Lexus;ES;Sedan;Midsize;0;True;False;japan
+Lexus;GS;Sedan;Midsize;0;True;False;japan
+Lexus;GX;SUV, Crossover;Fullsize;0;True;False;japan
+Lexus;IS;Sedan;Compact;1;True;False;japan
+Lexus;LS;Sedan;Fullsize;0;True;False;japan
+Lexus;LX;SUV, Crossover;Fullsize;0;True;False;japan
+Lexus;NX 200t;SUV, Crossover;Compact;0;True;False;japan
+Lexus;NX 300h;SUV, Crossover;Midsize;0;True;False;japan
+Lexus;RC 350;SUV, Crossover;Midsize;0;True;False;japan
+Lexus;RX;SUV, Crossover;Midsize;0;True;False;japan
+Lincoln;Aviator;SUV, Crossover;Midsize;0;True;False;japan
+Lincoln;Continental;Sedan;Midsize;0;True;False;U.S.
+Lincoln;Corsair;SUV, Crossover;Compact;0;True;False;U.S.
+Lincoln;MKC;SUV, Crossover;Compact;0;True;False;U.S.
+Lincoln;MKT;SUV, Crossover;Midsize;0;True;False;U.S.
+Lincoln;MKX;SUV, Crossover;Midsize;0;True;False;U.S.
+Lincoln;MKZ;Sedan;Midsize;0;True;False;U.S.
+Lincoln;Navigator;SUV, Crossover;Fullsize;0;True;False;U.S.
+Lincoln;Town Car;Sedan;Fullsize;0;True;False;U.S.
+Lotus;Elise;Sport;Subcompact;0;True;True;england
+MINI;Classic Mini;Hatchback;Subcompact;0;True;False;england
+MINI;Clubman;Hatchback;Subcompact;0;True;False;england
+MINI;Cooper Classic Clubman;Hatchback;Subcompact;0;True;False;england
+MINI;Cooper Countryman;Hatchback;Subcompact;0;True;False;england
+MINI;Cooper S Countryman;Hatchback;Subcompact;0;True;False;england
+MINI;John Cooper Works;Hatchback;Subcompact;0;True;False;england
+MINI;Mini Cooper;Hatchback;Subcompact;0;True;False;england
+MINI;Mini Cooper S;Hatchback;Subcompact;0;True;False;england
+Maserati;Ghibli;Sedan;Midsize;0;True;True;england
+Maserati;Gran Turismo;Coupe (2 door);Compact;2;True;True;italy
+Maserati;Levante;SUV, Crossover;Midsize;0;True;True;italy
+Maserati;Quattroporte;Sedan;Fullsize;1;True;True;italy
+Mazda;2;Hatchback;Subcompact;0;False;False;japan
+Mazda;3;Sedan;Compact;0;False;False;japan
+Mazda;5;Minivan, Van;Compact;0;False;False;japan
+Mazda;6;Sedan;Midsize;0;False;False;japan
+Mazda;CX-3;SUV, Crossover;Compact;0;False;False;japan
+Mazda;CX-30;SUV, Crossover;Subcompact;0;False;False;japan
+Mazda;CX-5;SUV, Crossover;Compact;0;False;False;japan
+Mazda;CX-7;SUV, Crossover;Midsize;0;False;False;japan
+Mazda;CX-9;SUV, Crossover;Fullsize;0;False;False;japan
+Mazda;mazdaspeed3;Hatchback;Compact;1;False;False;japan
+Mazda;Mazdaspeed6;Sport Sedan;Midsize;1;False;False;japan
+Mazda;MX-5 Miata;Cabriolet;Subcompact;1;False;False;japan
+Mazda;Mazda3 Sport;Hatchback;Compact;1;False;False;japan
+Mazda;Millenia;Sedan;Fullsize;0;False;False;japan
+Mazda;RX-8;Coupe (2 door);Compact;0;False;False;japan
+Mazda;Tribute;SUV, Crossover;Compact;0;False;False;japan
+Mercedes-Benz;AMG GT;Sport;Compact;3;True;False;germany
+Mercedes-Benz;300-Series;Sedan;Compact;0;True;False;germany
+Mercedes-Benz;B-Class;Minivan, Van;Subcompact;0;True;False;germany
+Mercedes-Benz;C-Class;Sedan;Compact;0;True;False;germany
+Mercedes-Benz;CLA;Sedan;Compact;0;True;False;germany
+Mercedes-Benz;CL-Class;Coupe (2 door);Compact;1;True;False;germany
+Mercedes-Benz;CLK-Class;Coupe (2 door);Midsize;0;True;False;germany
+Mercedes-Benz;E-Class;Sedan;Midsize;0;True;False;germany
+Mercedes-Benz;G-Class;SUV, Crossover;Midsize;0;True;False;germany
+Mercedes-Benz;GL-Class;SUV, Crossover;Fullsize;0;True;False;germany
+Mercedes-Benz;GLA;SUV, Crossover;Subcompact;0;True;False;germany
+Mercedes-Benz;GLC;SUV, Crossover;Compact;0;True;False;germany
+Mercedes-Benz;GLE;SUV, Crossover;Midsize;0;True;False;germany
+Mercedes-Benz;GLK-Class;SUV, Crossover;Compact;0;True;False;germany
+Mercedes-Benz;GLS;SUV, Crossover;Fullsize;0;True;False;germany
+Mercedes-Benz;M-Class;SUV, Crossover;Midsize;0;True;False;germany
+Mercedes-Benz;S-Class;Sedan;Fullsize;0;True;False;germany
+Mercedes-Benz;SL-Class;Cabriolet;Compact;1;True;False;germany
+Mercedes-Benz;SLC;Cabriolet;Compact;1;True;False;germany
+Mercedes-Benz;SLK-Class;Cabriolet;Compact;1;True;False;germany
+Mercedes-Benz;Sprinter Van;Minivan, Van;Fullsize;0;True;False;germany
+Mercury;Grand Marquis;Sedan;Fullsize;0;False;False;U.S.
+Mitsubishi;Eclipse;Coupe (2 door);Compact;0;False;False;japan
+Mitsubishi;Eclipse Cross;SUV, Crossover;Compact;0;False;False;japan
+Mitsubishi;Endeavor;SUV, Crossover;Midsize;0;False;False;japan
+Mitsubishi;I-Miev;Hatchback;Subcompact;0;False;False;japan
+Mitsubishi;Lancer;Sedan;Compact;0;False;False;japan
+Mitsubishi;Mirage;Hatchback;Subcompact;0;False;False;japan
+Mitsubishi;Outlander;SUV, Crossover;Compact;0;False;False;japan
+Mitsubishi;RVR;SUV, Crossover;Subcompact;0;False;False;japan
+Nissan;370Z;Coupe (2 door);Subcompact;1;False;False;japan
+Nissan;Armada;SUV, Crossover;Fullsize;0;True;False;japan
+Nissan;Altima;Sedan;Midsize;0;False;False;japan
+Nissan;Cube;Minivan, Van;Subcompact;0;False;False;japan
+Nissan;Frontier;Pickup Truck;Midsize;0;False;False;japan
+Nissan;GT-R;Sport;Subcompact;2;True;False;japan
+Nissan;Juke;SUV, Crossover;Subcompact;0;False;False;japan
+Nissan;Leaf;Hatchback;Compact;0;False;False;japan
+Nissan;MICRA;Hatchback;Subcompact;0;False;False;japan
+Nissan;Maxima;Sedan;Fullsize;0;False;False;japan
+Nissan;Murano;SUV, Crossover;Midsize;0;False;False;japan
+Nissan;NV200;Minivan, Van;Fullsize;0;False;False;japan
+Nissan;Pathfinder;SUV, Crossover;Midsize;0;False;False;japan
+Nissan;Qashqai;SUV, Crossover;Compact;0;False;False;japan
+Nissan;Quest;Minivan, Van;Midsize;0;False;False;japan
+Nissan;Rogue;SUV, Crossover;Compact;0;False;False;japan
+Nissan;Sentra;Sedan;Compact;0;False;False;japan
+Nissan;Titan;Pickup Truck;Fullsize;0;False;False;japan
+Nissan;Versa;Sedan;Subcompact;0;False;False;japan
+Nissan;X-trail;SUV, Crossover;Compact;0;False;False;japan
+Nissan;Xterra;SUV, Crossover;Compact;0;False;False;japan
+Oldsmobile;Alero;Sedan;Midsize;0;False;False;U.S.
+Oldsmobile;Cutlass;Coupe (2 door);Fullsize;0;False;False;U.S.
+Oldsmobile;Silhouette;Minivan, Van;Midsize;0;False;False;U.S.
+Plymouth;Prowler;Coupe (2 door);Subcompact;0;False;False;U.S.
+Pontiac;G5;Sedan;Compact;0;False;False;japan
+Pontiac;G6;Sedan;Midsize;0;False;False;U.S.
+Pontiac;Grand Am;Sedan;Midsize;0;False;False;U.S.
+Pontiac;Montana;Minivan, Van;Midsize;0;False;False;U.S.
+Pontiac;Pursuit;Compact;Compact;0;False;False;U.S.
+Pontiac;Solstice;Cabriolet;Subcompact;0;False;False;U.S.
+Pontiac;Torrent;SUV, Crossover;Midsize;0;False;False;U.S.
+Pontiac;Vibe;Hatchback;Compact;0;False;False;U.S.
+Pontiac;Wave;Hatchback;Subcompact;0;False;False;U.S.
+Porsche;Boxster;Cabriolet;Subcompact;2;True;True;germany
+Porsche;Cayenne;SUV, Crossover;Midsize;1;True;True;germany
+Porsche;Cayman;Coupe (2 door);Subcompact;1;True;True;germany
+Porsche;718;Sport;Subcompact;2;True;True;germany
+Porsche;911;Sport;Compact;2;True;True;germany
+Porsche;944;Sport;Compact;2;True;True;germany
+Porsche;Macan;SUV, Crossover;Compact;1;True;True;germany
+Porsche;Panamera;Hatchback;Fullsize;1;True;True;germany
+Ram;1500;Pickup Truck;Fullsize;0;False;False;U.S.
+Ram;2500;Pickup Truck;Fullsize;0;False;False;U.S.
+Ram;3500;Pickup Truck;Fullsize;0;False;False;U.S.
+Ram;Dakota;Pickup Truck;Midsize;0;False;False;U.S.
+Ram;Promaster;Minivan, Van;Fullsize;0;False;False;U.S.
+Rolls-Royce;Dawn;Cabriolet;Fullsize;1;True;True;england
+Saab;9-3;Sedan;Compact;0;False;False;U.S.
+Saturn;Astra;Hatchback;Compact;0;False;False;U.S.
+Saturn;ION;Sedan;Compact;0;False;False;U.S.
+Saturn;Relay;Minivan, Van;Midsize;0;False;False;U.S.
+Saturn;Sky;Cabriolet;Subcompact;0;False;False;U.S.
+Saturn;VUE;SUV, Crossover;Compact;0;False;False;U.S.
+Scion;FR-S;Coupe (2 door);Subcompact;1;False;False;japan
+Scion;iQ;Hatchback;Subcompact;0;False;False;japan
+Scion;tC;Coupe (2 door);Compact;0;False;False;japan
+Scion;xB;Hatchback;Compact;0;False;False;japan
+Shelby;Cobra;Cabriolet;Subcompact;0;False;False;japan
+Smart;Fortwo;Hatchback;Subcompact;0;False;False;japan
+Subaru;BRZ;Cabriolet;Compact;1;False;False;japan
+Subaru;Forester;SUV, Crossover;Midsize;0;False;False;japan
+Subaru;Impreza;Hatchback;Compact;0;False;False;japan
+Subaru;Impreza WRX STi;Hatchback;Compact;1;False;False;japan
+Subaru;Legacy;Sedan;Midsize;0;False;False;japan
+Subaru;Outback;SUV, Crossover;Midsize;0;False;False;japan
+Subaru;Tribeca;SUV, Crossover;Midsize;0;False;False;japan
+Subaru;WRX;Sedan;Compact;2;False;False;japan
+Subaru;XV Crosstrek;SUV, Crossover;Subcompact;0;False;False;japan
+Suzuki;Grand Vitara;SUV, Crossover;Midsize;0;False;False;japan
+Suzuki;Kizashi;Sedan;Midsize;0;False;False;japan
+Suzuki;Swift;Hatchback;Subcompact;0;False;False;japan
+Suzuki;SX4;Hatchback;Subcompact;0;False;False;japan
+Tesla;Model 3;Sedan;Midsize;0;True;True;U.S.
+Tesla;Model S;Sedan;Fullsize;0;True;True;U.S.
+Tesla;Model X;SUV, Crossover;Midsize;0;True;True;U.S.
+Tesla;Model Y;SUV, Crossover;Midsize;0;True;True;U.S.
+Toyota;4Runner;SUV, Crossover;Midsize;0;False;False;japan
+Toyota;Avalon;Sedan;Fullsize;0;True;False;japan
+Toyota;C-HR;SUV, Crossover;Subcompact;0;False;False;japan
+Toyota;Camry;Sedan;Midsize;0;False;False;japan
+Toyota;Corolla;Sedan;Compact;0;False;False;japan
+Toyota;Echo;Sedan;Subcompact;0;False;False;japan
+Toyota;FJ Cruiser;SUV, Crossover;Midsize;0;False;False;japan
+Toyota;Highlander;SUV, Crossover;Midsize;0;False;False;japan
+Toyota;Matrix;Hatchback;Compact;0;False;False;japan
+Toyota;Prius;Hatchback;Compact;0;False;False;japan
+Toyota;Prius v;Hatchback;Compact;0;False;False;japan
+Toyota;RAV4;SUV, Crossover;Compact;0;False;False;japan
+Toyota;Sienna;Minivan, Van;Midsize;0;False;False;japan
+Toyota;Supra;Sport;Compact;2;False;False;japan
+Toyota;Tacoma;SUV, Crossover;Midsize;0;False;False;japan
+Toyota;Tundra;Pickup Truck;Midsize;0;False;False;japan
+Toyota;Venza;SUV, Crossover;Midsize;0;False;False;japan
+Toyota;Yaris;Sedan;Subcompact;0;False;False;japan
+Volkswagen;Arteon;Sedan;Midsize;0;True;False;germany
+Volkswagen;Atlas;SUV, Crossover;Midsize;0;False;False;germany
+Volkswagen;Beetle;Hatchback;Subcompact;0;False;False;germany
+Volkswagen;CC;Sedan;Midsize;0;True;False;germany
+Volkswagen;Eos;Cabriolet;Compact;0;False;False;germany
+Volkswagen;EuroVan;Minivan, Van;Fullsize;0;False;False;germany
+Volkswagen;GTI;Hatchback;Compact;1;False;False;germany
+Volkswagen;Golf;Hatchback;Compact;0;False;False;germany
+Volkswagen;Golf R;Hatchback;Compact;2;False;False;germany
+Volkswagen;Jetta;Sedan;Compact;0;False;False;germany
+Volkswagen;New Beetle;Hatchback;Subcompact;0;False;False;germany
+Volkswagen;Passat;Sedan;Midsize;0;False;False;germany
+Volkswagen;Rabbit;Hatchback;Compact;0;False;False;germany
+Volkswagen;Tiguan;SUV, Crossover;Compact;0;False;False;germany
+Volkswagen;Touareg;SUV, Crossover;Midsize;0;False;False;germany
+Volkswagen;Touran;Minivan;Compact;0;False;False;germany
+Volvo;S60;Sedan;Compact;0;True;False;sweden
+Volvo;S90;Sedan;Midsize;0;True;False;sweden
+Volvo;V50;Wagon;Compact;0;True;False;sweden
+Volvo;V60;Wagon;Compact;0;True;False;sweden
+Volvo;V70;Wagon;Midsize;0;True;False;sweden
+Volvo;V90;Wagon;Midsize;0;True;False;sweden
+Volvo;V90 Cross Country;Sedan;Midsize;0;True;False;sweden
+Volvo;XC40;SUV, Crossover;Compact;0;True;False;sweden
+Volvo;XC60;SUV, Crossover;Midsize;0;True;False;sweden
+Volvo;XC90;SUV, Crossover;Midsize;0;True;False;sweden

@@ -1,0 +1,236 @@
+<!--
+This app was derived from the freely available Flask template from Creative Tim
+=========================================================
+* Material Kit 2 - v3.0.0
+=========================================================
+
+* Product Page:  https://www.creative-tim.com/product/material-kit
+* Copyright 2021 Creative Tim (https://www.creative-tim.com)
+* Coded by www.creative-tim.com
+
+ =========================================================
+
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
+
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="apple-touch-icon" sizes="76x76" href="/static/assets/img/apple-icon.png">
+  <link rel="icon" type="image/png" href="/static/assets/img/favicon.png">
+
+  <title>
+    CarSnatch - AI based car price expert | CarSnatch Inc.
+  </title>
+
+  {% include 'includes/functions.html' %}
+  {% include 'includes/stylesheets.html' %}
+
+</head>
+
+
+<body class="presentation-page bg-gray-200">
+
+  <div data-include={{ url_for('navbar') }}></div>
+
+  <!--------------------->
+  <!------ HEADER ------->
+  <!--------------------->
+  <div class="bg-image d-flex justify-content-center align-items-center" style="background-image: url('/static/assets/img/y-highway-hero-large.jpg'); height: 50vh;">
+
+    <div class="mask" style="background-color: rgba(0,0,0,0.6)">
+
+        <div class="d-flex flex-column justify-content-center align-items-center h-100">
+            <h1 class="text-white">Cars. Trucks. Bikes.</h1>
+            <h5 class="text-light text-center">Your AI-powered assitant to price/negociate your dream car.<br />free, accurate.. yes <b class="text-primary text-gradient">free</b></h5>
+        </div>
+
+    </div>
+
+  </div>
+
+
+  <div class="card card-body blur shadow-blur mx-3 mx-md-4 mt-n6">
+
+    <!----------------------->
+    <!--     FLIP CARD     -->
+    <!----------------------->
+    <section>
+
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-10 ms-auto me-auto p-lg-4 mt-lg-0 mt-4">
+
+            <div class="rotating-card-container manual-flip">
+              <div class="card card-rotate card-background card-background-mask-primary shadow-primary mt-md-0 mt-5 manual-flip">
+
+
+                <!-- front of card -->
+                <div class="front front-background w-100" style="background-image: url(static/assets/img/car-dashboard-1.jpg); background-size: cover;">
+
+                  <!-- INIT FORM - THIS GOES BACK TO INDEX -->
+                  <!--<form action="{#  { url_for('mainpage') }} #}" method="POST"> -->
+                  <!--<form id="oracleform">-->
+
+                    <div class="card-body py-1 text-center">
+
+                      <h3 class="text-white mb-4">enter vehicle specs.</h3>
+
+                        <div class="row mb-4">
+                          <div class="col-md-7">
+
+                            <!-- car type -->
+                            <div class="row">
+                              <h5 class="text-light">type</h5>
+                            </div>
+
+                            <div class="row mt-4">
+                              <!-- Col 1: make/model-->
+                              <div class="col-md-5">
+                                <!--make-->
+                                <div class="w-100">
+                                  <select class="form-select btn btn-secondary btn-sm dropdown-toggle" aria-label="Make select" id="listmake" name="car-make">
+                                    <option selected>Make</option>
+                                  </select>
+                                </div>
+                                <!--model-->
+                                <div class="w-100">
+                                  <select class="form-select btn btn-secondary btn-sm dropdown-toggle" aria-label="Model select" id="listmodel" name="car-model">
+                                    <option selected>Model</option>
+                                  </select>
+                                </div>
+                              </div>
+
+                              <!-- Col 2: or-->
+                              <div class="col-md-2">
+                                <!--body type-->
+                                <h5 class="text-white">or</h5>
+                              </div>
+
+                              <!-- Col 3: body, origin, luxury-->
+                              <div class="col-md-5">
+                                <!--body type-->
+                                <div class="btn-group shadow-none w-100">
+                                  <select class="form-select btn btn-secondary btn-sm dropdown-toggle" aria-label="BodyType select" id="listbodytype" name="car-bodytype">
+                                    <option selected>Body type</option>
+                                  </select>
+                                </div>
+                                <!--body size-->
+                                <div class="btn-group shadow-none w-100">
+                                  <select class="form-select btn btn-secondary btn-sm dropdown-toggle" aria-label="BodyType select" id="listbodysize" name="car-bodysize">
+                                    <option selected>Body size</option>
+                                  </select>
+                                </div>
+                                <!--origin-->
+                                <div class="btn-group shadow-none w-100">
+                                  <select class="form-select btn btn-secondary btn-sm dropdown-toggle" aria-label="BodyType select" id="listorigin" name="car-origin">
+                                    <option selected>Origin</option>
+                                  </select>
+                                </div>
+                                <!--luxury-->
+                                <div class="mb-3 form-check d-flex d-row justify-content-center px-3">
+                                  <span class="text-white">Luxury</span>
+                                    <label class="custom-control teleport-switch">
+                                      <!-- <span class="small text-white">no</span> -->
+                                      <input type="checkbox" class="teleport-switch-control-input" checked="" id="listluxury" name="car-luxury">
+                                      <span class="teleport-switch-control-indicator"></span>
+                                      <!-- <span class="small text-white">yes</span> -->
+                                    </label>
+                                </div>
+
+                              </div>
+
+                            </div>
+
+                          </div>
+
+                          <div class="col-md-5">
+                            <!-- car condition -->
+                            <div class="row">
+                              <h5 class="text-light">condition</h5>
+                            </div>
+
+                            <div class="row mt-4 px-6">
+
+                                <!--years-->
+                                <div>
+                                  <div class="row">
+
+                                    <div class="btn-group shadow-none px-0">
+                                      <select class="form-select btn btn-secondary btn-sm dropdown-toggle" aria-label="MinYear select" id="listyearmin" name="car-minyear">
+                                        <option selected>Min year</option>
+                                      </select>
+                                    </div>
+
+                                    <div class="btn-group shadow-none px-0">
+                                      <select class="form-select btn btn-secondary btn-sm dropdown-toggle" aria-label="MinYear select" id="listyearmax" name="car-maxyear">
+                                        <option selected>Max year</option>
+                                      </select>
+                                    </div>
+
+                                  </div>
+                                </div>
+
+                                <!--miles-->
+                                <div >
+                                  <div class="row">
+                                    <input type="text" class="form-control" id="carmiles1" aria-describedby="emailHelp" placeholder="0 km" name="car-minmiles">
+                                    <input type="text" class="form-control mt-1" id="carmiles2" aria-describedby="emailHelp" placeholder="200 000 km" name="car-maxmiles">
+                                  </div>
+                                </div>
+
+                            </div>
+                          </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Rotating button -->
+                    <div class="card-body">
+                      <button class="btn btn-primary btn-rotator btn-front text-white">
+                        Evaluate <i class="fa fa-mail-forward"></i>
+                      </button>
+                    </div>
+
+                  <!-- </form> -->
+
+                </div>
+
+                <!-- back of card -->
+                <div class="back back-background" style="background-image: url(static/assets/img/car-dashboard-2.jpg); background-size: cover;">
+                  <div class="card-body py-1 text-center">
+                    <h3 class="text-white mb-4">query results</h3>
+                  </div>
+                  <!-- chart -->
+                  <div class="mx-5 mb-5" id="oraclechartdiv">
+                    <canvas id="oraclechartcanvas" class="bg-white border-radius-lg" style="position: relative; z-index: 1000;"></canvas>
+                  </div>
+                  <!-- rotating button -->
+                  <div class="card-body d-flex align-items-bottom justify-content-center">
+                    <button class="btn btn-secondary  btn-rotator btn-back text-white">
+                      <i class="fa fa-mail-reply"></i> Back
+                    </button>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+
+  </div>
+
+  {% include 'includes/footer.html' %}
+
+  {% include 'includes/scripts.html' %}
+
+</body>
+
+</html>
